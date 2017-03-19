@@ -11,9 +11,7 @@ import java.util.ArrayList;
  * <p>
  * Calculates Minimal Spanning Tree using Prim's Algorithm
  * <p>
- * All Rights Reserved.
- * This work is protected by copyright laws and international treaties.
- * Copyright (C) Formaltech, Inc. 2017
+
  */
 public class Main {
     /*

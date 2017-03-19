@@ -7,9 +7,7 @@ import java.util.ArrayList;
  * <p>
  * [Description goes here]
  * <p>
- * All Rights Reserved.
- * This work is protected by copyright laws and international treaties.
- * Copyright (C) Formaltech, Inc. 2017
+ *
  */
 public class GraphArray {
     int size;
