@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * File Name - Main
  * Created by Amelia Kawasaki on 2/24/2017.
  * <p>
- * [Description goes here]
+ * Calculates Minimal Spanning Tree using Prim's Algorithm
  * <p>
  * All Rights Reserved.
  * This work is protected by copyright laws and international treaties.
